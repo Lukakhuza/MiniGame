@@ -5,7 +5,6 @@ import GameScreen from "./screens/GameScreen";
 import GameOverScreen from "./screens/GameOverScreen";
 import { useFonts } from "expo-font";
 import AppLoading from "expo-app-loading";
-
 import { LinearGradient } from "expo-linear-gradient";
 import Colors from "./constants/colors";
 
