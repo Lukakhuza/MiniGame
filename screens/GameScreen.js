@@ -86,7 +86,7 @@ function GameScreen({ userNumber, onGameOver }) {
         </View>
       </Card>
       <View style={styles.listContainer}>
-        {/* {guessRounds.map((guessRound) => (
+        {/* {guessRounds.map((guessRound) => ( // alternate version of displaying the list
           <Text key={guessRound}>{guessRound}</Text>
         ))} */}
         <FlatList
